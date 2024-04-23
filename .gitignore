@@ -3,3 +3,4 @@ RasaProject/rasavenv
 RasaProject/.rasa
 RasaProject/actions/__pycache__
 RasaProject/models
+RasaProject/.DS_Store
